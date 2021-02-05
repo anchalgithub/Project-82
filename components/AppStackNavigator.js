@@ -11,7 +11,7 @@ headerShown : false
 }
 },
 
-ReceiverDetails : {
+UserDetails : {
 screen : UserDetails,
 navigationOptions:{
 headerShown : false
